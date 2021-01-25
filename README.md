@@ -1,8 +1,8 @@
 # Juego-en-java
-Software que gestiona elementos y dinámicas propias de los juegos para incorporar al aprendizaje en base a los temas que que sean subidos al al programa. El sistem posee dos formas de jugar basadas en la gamificación: Flash y Memory
+Software que gestiona elementos y dinámicas propias de los juegos para incorporar al aprendizaje en base a los temas que que sean subidos al al programa. El sistema posee dos formas de jugar basadas en la gamificación: Flash y Memory
 
 ##  Decisiones de diseño:
-Con base en lo trabajado en clase diseñamos el programa para que sea lo más sencillo e intuitivo posible, intentando
+Se busca que el programa  sea lo más sencillo e intuitivo posible, intentando
 que las opciones sean claras y a su vez dirijan al usuario hacia lo que este desee realizar.
 En la ventana principal se irán habilitando las opciones a medida que el usuario cumpla con las condiciones
 establecidas por el sistema y necesarias para poder realizar las tareas. Luego de cargar temas en el programa, ya sea,
