@@ -27,3 +27,5 @@ y temas de forma sencilla y cómoda.
 
 ###### Todos los temas cargados en el sistema se guardarán automáticamente al cerrar el programa, teniendo la posibilidad
 ###### de exportarlos del programa para abrirlos en otro ordenador.
+video
+https://www.youtube.com/watch?v=ZHw1kTLv8fM&feature=youtu.be
